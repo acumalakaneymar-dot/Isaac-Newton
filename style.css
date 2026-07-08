@@ -1,0 +1,24 @@
+
+        header{
+            background-color :#232372 ;
+            color: white;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            border: 5px solid;
+        }
+        .artigo-autor{
+            font-weight:bold
+        }
+          img{
+            width: 320px;
+            height: 320px;
+          }
+        main{
+            background-color:white;
+            color: #232372;
+            text-align: center;
+        max-width: 800px;
+        margin: 0 auto;
+        }
